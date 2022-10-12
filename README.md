@@ -4,6 +4,23 @@
 
 - React
 
+## Tooling
+
+- Vite
+- Storybook
+
+## Setup
+
+```bash
+npm install
+npm run storybook # storybook start
+npm run dev # vite dev mode start
+```
+
+## Deploy
+
+[Vercel](https://vercel.com/)
+
 ## Components
 
 ### Atomic Design
